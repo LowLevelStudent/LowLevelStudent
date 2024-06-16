@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LowLevelStudent
-- 👀 I’m interested in low level programmin, game dev and reinventing the wheel
+- 👀 I’m interested in low level programmin, game dev, reinventing the wheel and doing everything from scratch
 - 🌱 I’m currently learning game engine architecture
 - 💞️ I’m looking to collaborate on creating my dream game :)
 - 📫 How to reach me ...
